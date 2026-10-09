@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/DaliceZ" target="_blank">DaliceZ</a></h1>
+<h3 align="center">🎮 Game & Application Developer | Transforming ideas into reality ✨</h3>
 
-<!--
-**DaliceZ/DaliceZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://herokuapp.com;" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌌 Exploring the Unknown
+- 🚀 Always looking for the next digital expedition.
+- 🛠️ Currently focusing on **Game Development & Cross-platform apps**.
+- 👾 Creator of **Void-SPACE-EXPLORER** & **Quackle**.
+
+### 🛠️ Tech Stack & Tools:
+<p align="left">
+  <img src="https://skillicons.dev" />
+</p>
+
+### 📊 GitHub Activity & Stats:
+<p align="center">
+  <img height="180px" src="https://vercel.app" />
+  <img height="180px" src="https://vercel.app" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" />
+</p>
