@@ -1,29 +1,124 @@
-# ⚡️ สวัสดีวัยรุ่นเทสดี (Hi there, I'm just a dev.)
+<!-- 🌟 HEADER -->
 
-**Senior StackOverflow Developer | Bug Creator | Professional Copy-Paster**
-
-> "ที่ผมชิล เพราะผมรอ Docker build นานจัด... ถุ้ย! เพราะผมฟังอิลต่างหาก" 🎧💨
-
-ปัจจุบันเป็นนักศึกษา CS แถวเชิงดอย (ที่ยังเอาชีวิตรอดจากห้อง CSB100 มาได้) และกำลังสวมบท Application Developer Intern ชีวิตประจำวันวนเวียนอยู่กับ WSL ที่ทำงานบ้างงอแงบ้าง และการเปิดโหมด **Godspeed** ปั่นโปรเจกต์ให้ทันเดดไลน์ ⚡️
-
-### 🛠 Tech Stack (ที่บอกว่าเขียนได้ แต่จริงๆ ก็เปิด Document ดู)
-- **Backend & API:** Go, TypeScript (Drizzle/Hono/Zod), FastAPI `// ถนัดทำ Endpoints ที่ส่งคืน Error 500`
-- **Frontend & Mobile:** Flutter, React `// It works on my machine 🤷‍♂️`
-- **Database:** PostgreSQL `// เชี่ยวชาญด้านการ Drop table ผิดตัว`
-- **Infrastructure:** Docker, WSL (Ubuntu 24.04) `// คอนเทนเนอร์มีไว้ขังความผิดพลาดของตัวเอง`
-- **Languages I suffered through:** C++, Racket, Ruby `// เรียนจบมาได้ก็บุญแล้ว`
-
-### 🎮 When I'm not coding (or crying over bugs)
-- เปิด RTX 3050 เล่น Minecraft ลง Modpack หนักๆ ให้คอมร้องขอชีวิต
-- นั่งแต่ง Desktop ด้วย Rainmeter ธีม Killua สุดเบียว
-- ว่างจัดก็ไปเขียน Pygame ไม่ก็ปั่น Canvas Animations เล่น
-
-### 📈 GitHub Stats (สถิติการสร้าง Bug)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaliceZ&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="My Stats" />
+
+# 👋 Hey, I'm Dalalight
+
+### `Developer` • `Tech Enthusiast` • `Problem Solver`
+
+<a href="https://github.com/DaliceZ">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;Building+ideas+into+reality;Learning+something+new+every+day" alt="Typing SVG" />
+</a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=DaliceZ&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 </div>
-<br/>
 
 ---
-**📫 How to reach me:**
-ถ้าเอาโค้ดผมไปรันแล้วพัง ไม่ต้องทักมาด่านะครับ ทักมาช่วยผมแก้ด้วย ขอบคุณครับ 🙏
+
+## 🚀 About Me
+
+```yaml
+name: Dalalight
+role: Developer & Student
+location: Earth 🌍
+currently_learning:
+  - Python
+  - JavaScript
+  - Web Development
+interests:
+  - Building cool projects
+  - Open Source
+  - Exploring new technologies
+goal: Keep learning. Keep building. Keep growing.
+```
+
+* 🔭 Currently building personal projects and improving my coding skills.
+* 🌱 Exploring new technologies and modern development tools.
+* 💡 I enjoy turning creative ideas into real applications.
+* 🤝 Open to collaboration, open-source projects, and learning together.
+* ⚡ Fun fact: Every expert was once a beginner.
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vue,tailwind" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DaliceZ&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaliceZ&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=DaliceZ&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/DaliceZ/ToolsDice">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaliceZ&repo=ToolsDice&theme=tokyonight&hide_border=true" alt="Featured Project One" />
+</a>
+
+<a href="https://github.com/DaliceZ/Void-SPACE-EXPLORER">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaliceZ&repo=Void-SPACE-EXPLORER&theme=tokyonight&hide_border=true" alt="Featured Project Two" />
+</a>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/DaliceZ">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:detnarin.karinchai@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for stopping by!
+
+*“First, solve the problem. Then, write the code.”*
+
+**⭐ If you find my work interesting, consider following me!**
+
+</div>
