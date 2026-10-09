@@ -2,9 +2,13 @@
 
 # 👋 Hey, I'm Dalalight
 
+<img src="./assets/welcome-header.gif" alt="Welcome to my GitHub profile" />
+
 ### `Developer` · `Tech Enthusiast` · `Problem Solver`
 
 I build interactive experiences and useful web applications, learning through real projects.
+
+**I love code**&nbsp;&nbsp;<img src="./assets/cat-typing.gif" alt="A cat typing on a computer" height="80" />&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;<img src="./assets/unicorn.gif" alt="Animated unicorn" height="80" />
 
 <a href="https://github.com/DaliceZ">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=560&lines=Building+procedural+worlds;Creating+practical+web+tools;Turning+ideas+into+working+software" alt="Typing introduction" />
@@ -58,6 +62,14 @@ I enjoy turning creative ideas into real applications and am open to collaborati
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
+
+## 👾 Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaliceZ/DaliceZ/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaliceZ/DaliceZ/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/DaliceZ/DaliceZ/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 🚀 Featured Projects
 
