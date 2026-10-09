@@ -20,7 +20,7 @@
 
 ### 📈 GitHub Stats (สถิติการสร้าง Bug)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="My Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DaliceZ&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="My Stats" />
 </div>
 <br/>
 
