@@ -62,9 +62,6 @@ I enjoy turning creative ideas into real applications and am open to collaborati
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
-
-## 👾 Pac-Man Contribution Graph
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaliceZ/DaliceZ/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaliceZ/DaliceZ/output/pacman-contribution-graph.svg">
