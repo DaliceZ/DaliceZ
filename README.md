@@ -77,7 +77,7 @@ I build web applications from interface to backend, with a focus on clear workfl
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="100%">
       <a href="https://github.com/DaliceZ/Void-SPACE-EXPLORER">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaliceZ&repo=Void-SPACE-EXPLORER&theme=tokyonight&hide_border=true" alt="Void & Space Explorer repository card" />
       </a>
@@ -86,19 +86,21 @@ I build web applications from interface to backend, with a focus on clear workfl
       <br />
       A 3D exploration game built with React, TypeScript, and Three.js.
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/DaliceZ/ToolsForDice">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaliceZ&repo=ToolsForDice&theme=tokyonight&hide_border=true" alt="ToolsDice repository card" />
-      </a>
-      <br />
-      <strong>ToolsDice</strong>
-      <br />
-      A collection of tools and experiments. Explore the repository for details.
-    </td>
   </tr>
 </table>
 
 </div>
+
+## 🎓 Academic Projects
+
+Projects I built during my studies, exploring game development, mobile apps, and adaptive gameplay.
+
+| Project | What it does | Technologies |
+| --- | --- | --- |
+| [Adaptive Difficulty Fishing](https://github.com/DaliceZ/Adaptive-Difficulty-Fishing) | A fishing game comparing fixed difficulty with dynamic difficulty adjustment, with player surveys, CSV experiment logs, and charts for analyzing results. | Python, Pygame, pandas, Matplotlib |
+| [Tower Defense](https://github.com/DaliceZ/Tower-defense---Pygame) | A strategy game where players place different tower types to defend against enemy waves, with special powers and saved progress. | Python, Pygame |
+| [Quackle](https://github.com/DaliceZ/Quackle) | A Wordle-inspired English vocabulary game with five-letter word puzzles, flashcard quizzes, a Thai-translated dictionary, power-ups, and locally saved progress. | Flutter, Dart, shared_preferences |
+| [Little Legends](https://github.com/DaliceZ/Little-Legends) | A 2D fantasy action RPG with real-time combat, procedural dungeons, a village hub, equipment upgrades, and local saves. Supports Thai and English. | React, TypeScript, Phaser 3, Dexie.js |
 
 ## 📊 GitHub Stats
 
