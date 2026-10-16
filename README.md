@@ -42,7 +42,9 @@ I enjoy turning creative ideas into real applications and am open to collaborati
 
 - **Interactive 3D experiences** — procedural environments and gameplay with React and Three.js.
 - **Workflow applications** — clear, dependable features for real request and approval processes.
-- **Developer tools** — small utilities that make everyday tasks easier.
+- **[ToolsDice](https://github.com/DaliceZ/ToolsForDice)** — a privacy-first browser utility suite with 52 tool routes for PDFs, images, text, developer tools, and more. Built with React, TypeScript, Tailwind CSS, Bun, and Elysia, with Thai/English support and five themes.
+- **[Dropmine](https://dropmine.space/)** — direct device-to-device file sharing with WebRTC, device discovery, QR pairing, and recipient approval, without storing files on the server. Built with React, TypeScript, Express, WebSocket, and Redis. [Source code](https://github.com/DaliceZ/-Dropmine).
+- **[DelightPOS](https://github.com/DaliceZ/POS-MyDice)** — a multi-tenant restaurant and café POS with QR ordering, real-time kitchen displays, split bills, payment recording, shift reconciliation, and sales reports. Built with React, TypeScript, Bun, Elysia, Drizzle ORM, PostgreSQL, and Supabase, with tenant isolation through Row-Level Security.
 
 ## 🧰 Tech Stack & Tools
 
@@ -90,35 +92,7 @@ I enjoy turning creative ideas into real applications and am open to collaborati
       <br />
       <strong>ToolsDice</strong>
       <br />
-      Privacy-first browser utilities with 52 tool routes across PDF, images, text, developer tools, and more. Supports Thai, English, and five themes, with local processing for tool inputs.
-      <br /><br />
-      <small>React · TypeScript · Tailwind CSS · Bun · Elysia</small>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/DaliceZ/-Dropmine">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaliceZ&repo=-Dropmine&theme=tokyonight&hide_border=true" alt="Dropmine repository card" />
-      </a>
-      <br />
-      <strong>Dropmine — Peer-to-Peer File Sharing</strong>
-      <br />
-      Send files directly between devices using WebRTC without storing files on the server. Includes device discovery, QR pairing, recipient approval, and real-time transfer progress.
-      <br /><br />
-      <small>React · TypeScript · Express · WebRTC · WebSocket · Redis</small>
-      <br /><br />
-      <a href="https://dropmine.space/">Try Dropmine ↗</a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/DaliceZ/POS-MyDice">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaliceZ&repo=POS-MyDice&theme=tokyonight&hide_border=true" alt="DelightPOS repository card" />
-      </a>
-      <br />
-      <strong>DelightPOS — Restaurant &amp; Café Management</strong>
-      <br />
-      A multi-tenant restaurant POS with QR ordering, real-time kitchen displays, split bills, payment recording, shift reconciliation, and sales reports. Uses PostgreSQL Row-Level Security for tenant isolation.
-      <br /><br />
-      <small>React · TypeScript · Bun · Elysia · Drizzle ORM · PostgreSQL · Supabase</small>
+      A collection of tools and experiments. Explore the repository for details.
     </td>
   </tr>
 </table>
