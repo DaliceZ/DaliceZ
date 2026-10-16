@@ -84,13 +84,41 @@ I enjoy turning creative ideas into real applications and am open to collaborati
       A 3D exploration game built with React, TypeScript, and Three.js.
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/DaliceZ/ToolsDice">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaliceZ&repo=ToolsDice&theme=tokyonight&hide_border=true" alt="ToolsDice repository card" />
+      <a href="https://github.com/DaliceZ/ToolsForDice">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaliceZ&repo=ToolsForDice&theme=tokyonight&hide_border=true" alt="ToolsDice repository card" />
       </a>
       <br />
       <strong>ToolsDice</strong>
       <br />
-      A collection of tools and experiments. Explore the repository for details.
+      Privacy-first browser utilities with 52 tool routes across PDF, images, text, developer tools, and more. Supports Thai, English, and five themes, with local processing for tool inputs.
+      <br /><br />
+      <small>React · TypeScript · Tailwind CSS · Bun · Elysia</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/DaliceZ/-Dropmine">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaliceZ&repo=-Dropmine&theme=tokyonight&hide_border=true" alt="Dropmine repository card" />
+      </a>
+      <br />
+      <strong>Dropmine — Peer-to-Peer File Sharing</strong>
+      <br />
+      Send files directly between devices using WebRTC without storing files on the server. Includes device discovery, QR pairing, recipient approval, and real-time transfer progress.
+      <br /><br />
+      <small>React · TypeScript · Express · WebRTC · WebSocket · Redis</small>
+      <br /><br />
+      <a href="https://dropmine.space/">Try Dropmine ↗</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/DaliceZ/POS-MyDice">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaliceZ&repo=POS-MyDice&theme=tokyonight&hide_border=true" alt="DelightPOS repository card" />
+      </a>
+      <br />
+      <strong>DelightPOS — Restaurant &amp; Café Management</strong>
+      <br />
+      A multi-tenant restaurant POS with QR ordering, real-time kitchen displays, split bills, payment recording, shift reconciliation, and sales reports. Uses PostgreSQL Row-Level Security for tenant isolation.
+      <br /><br />
+      <small>React · TypeScript · Bun · Elysia · Drizzle ORM · PostgreSQL · Supabase</small>
     </td>
   </tr>
 </table>
