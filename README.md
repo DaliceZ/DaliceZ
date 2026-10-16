@@ -29,12 +29,13 @@ I build interactive experiences and useful web applications, learning through re
 <img src="./assets/about-me.gif" width="120" align="right" alt="Waving animated character" />
 
 - **Name:** Dalalight
-- **Role:** Developer & student
-- **Currently learning:** Python, JavaScript, and web development
-- **Interests:** Building projects, open source, and exploring new technologies
-- **Goal:** Keep learning, keep building, and keep growing.
+- **Role:** Full-stack developer & student
+- **Main stack:** TypeScript, React, Tailwind CSS, Bun, Elysia, and PostgreSQL
+- **Projects:** ToolsDice, Dropmine, and DelightPOS — browser utilities, peer-to-peer file sharing, and restaurant management.
+- **Interests:** Privacy-first applications, real-time systems, and interactive 3D experiences
+- **Goal:** Build useful software and improve it through real-world use.
 
-I enjoy turning creative ideas into real applications and am open to collaboration, open-source projects, and learning together. Every expert was once a beginner.
+I build web applications from interface to backend, with a focus on clear workflows, privacy, and reliable data handling. My projects range from tools that process files locally in the browser to real-time file sharing and a multi-tenant restaurant POS. I also enjoy experimenting with React and Three.js, and I'm open to collaboration and open-source projects.
 
 <br clear="right" />
 
